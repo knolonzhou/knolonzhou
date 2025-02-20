@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on something cool.
 - 🌱 I’m currently learning Everything I like.
 - 💬 Ask me about anything related to Java/Python/C++.
-- 📫 How to reach me: aronmichelle3@gmail.com
+- 📫 How to reach me: knolonzhou91@163.com
 - 😄 Read more about my CSDN: [here](https://blog.csdn.net/qq_44231797?spm=1000.2115.3001.5343)
 
 ![](https://github-readme-stats.vercel.app/api?username=knolonzhou&show_icons=true&theme=transparent)
